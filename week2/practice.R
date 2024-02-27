@@ -1,2 +1,3 @@
 # invisible object
-.a =3
+.b <- 45
+.b+3
